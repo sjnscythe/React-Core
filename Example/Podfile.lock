@@ -1,0 +1,16 @@
+PODS:
+  - React-Core (0.1.0)
+
+DEPENDENCIES:
+  - React-Core (from `../`)
+
+EXTERNAL SOURCES:
+  React-Core:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  React-Core: 50272c1e0a5ddd49d58ff6cb7b2b6dc21b56b066
+
+PODFILE CHECKSUM: c89daa4be39ded768d0a9d1a0f09aaab2c86668c
+
+COCOAPODS: 1.12.0
